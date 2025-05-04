@@ -1,6 +1,0 @@
-bin
-db
-log
-cache
-colorDB/.colorDB.lock
-panels/**/*.ba?
